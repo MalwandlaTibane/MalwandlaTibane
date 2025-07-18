@@ -55,7 +55,10 @@ I’m currently focused on **building strong software fundamentals** through rea
 ---
 
 ### 📫 Let’s Connect
+ **Email**: malwandlatibane@gmail.com  
+- **LinkedIn**: [linkedin.com/in/malwandla-tibane](https://www.linkedin.com/in/malwandla-tibane/)
 
-<p>
-  <a href="mailto:malwandlatibane@gmail.com"><img
+---
+
+<p align="center"><i>“Great things are not done by impulse, but by a series of small things brought together.” – Vincent Van Gogh</i></p>
 
